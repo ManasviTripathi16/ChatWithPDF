@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69415794429",
+    "project_id": "chatwithpdf-7b541",
+    "storage_bucket": "chatwithpdf-7b541.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69415794429:android:f5407f1393dac8d3c87094",
+        "android_client_info": {
+          "package_name": "com.manasvi.chatwithpdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69415794429-airpk7s3116mrje8kk985spss70vs12s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manasvi.chatwithpdf",
+            "certificate_hash": "f3812d10852a363ac661b509c28b984e376e8508"
+          }
+        },
+        {
+          "client_id": "69415794429-vo6t0nnsgvfhhlbt5n0j3ivbc70bkqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWBmyDvktRzaafwpQJcsWHz1nJZuyRJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69415794429-vo6t0nnsgvfhhlbt5n0j3ivbc70bkqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
